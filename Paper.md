@@ -96,3 +96,13 @@
 
 ## 参考文献
 - 整理并引用国内外相关的最新文献，确保文献来源权威、全面，体现对领域前沿的把握。
+
+
+
+
+---
+
+Hydroacoustic Parametric Study of Pile Driving-Induced Anthropogenic Sound
+
+Author: S Wojciechowski
+Summary: This research investigates noise from pile driving in bridge construction and its impact on marine life. A scaled physical model was used to measure underwater sound propagation.
